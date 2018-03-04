@@ -1,5 +1,5 @@
+
 import sys
-import os
 from machinekit import hal
 from machinekit import rtapi as rt
 from machinekit import config as c
