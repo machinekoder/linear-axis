@@ -1,6 +1,8 @@
-# HAL AND Demo
-This is a very simple HAL AND demo. To start the demo download the MachinekitClient from the:
-[QtQuickVcp download section](https://github.com/qtquickvcp/QtQuickVcp#download)
+# Machinekit / HAL Linear Axis Demo
+This configuration demonstrates how to drive a linear axis with
+Machinekit. To start the demo download the MachinekitClient from the:
+[QtQuickVcp download
+section](https://github.com/qtquickvcp/QtQuickVcp#download)
 
 ## Starting the demo
 You can start the Machinekit demo application by running the start script:

@@ -22,7 +22,7 @@ ApplicationWindow {
         mode: "local"
         applications: [
             ApplicationDescription {
-                sourceDir: "qrc:/anddemo.AND-Demo/"
+                sourceDir: "qrc:/linear-axis.Command-Interface/"
             }
         ]
         instanceFilter: ServiceDiscoveryFilter{ name: "" }

@@ -1,0 +1,14 @@
+# Python
+*.pyc
+
+# PyPi
+*.egg-info
+build/
+dist/
+
+# QML
+*.qmlc
+
+# IDEs
+.cache
+.idea
